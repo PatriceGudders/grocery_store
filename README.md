@@ -26,17 +26,20 @@ Dit is een eenvoudige webpagina voor een virtuele groentenwinkel. Gebruikers kun
 ```json
 [
   {
-    "naam": "Wortel",
-    "prijs": 1.50
+        "naam": "aardappelen",
+        "prijs": 0.95,
+        "eenheid": "kg"
   },
   {
-    "naam": "Broccoli",
-    "prijs": 2.00
+        "naam": "avocado",
+        "prijs": 2.69,
+        "eenheid": "stuk"
   },
   {
-    "naam": "Spinazie",
-    "prijs": 1.75
-  }
-  // Voeg andere groenten toe
+        "naam": "bloemkool",
+        "prijs": 1.93,
+        "eenheid": "stuk"
+  },
+  ...
 ]
 ```
