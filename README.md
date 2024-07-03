@@ -1,6 +1,6 @@
 # Groentenwinkel Webpagina
 
-Dit is een eenvoudige webpagina voor een virtuele groentenwinkel. Gebruikers kunnen groenten bestellen door een groente te kiezen uit een lijst en het gewenste aantal in te voeren. De pagina maakt gebruik van HTML en CSS.
+Dit is een eenvoudige webpagina voor een virtuele groentenwinkel. Gebruikers kunnen groenten bestellen door een groente te kiezen uit een lijst en het gewenste aantal in te voeren. De pagina maakt gebruik van HTML, CSS en JavaScript.
 
 ## Functionaliteiten
 
