@@ -19,7 +19,7 @@ Dit is een eenvoudige webpagina voor een virtuele groentenwinkel. Gebruikers kun
 
 ## Voorbeeld
 
-![Voorbeeld](grocery_store/images/screen_groentenwinkel.png)
+![Voorbeeld](groentenwinkel/images/screen_groentenwinkel.png)
 
 ## JSON-gegevens (groenten.json)
 
